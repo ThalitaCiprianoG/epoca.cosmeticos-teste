@@ -21,7 +21,7 @@ Passo a passo:
 
     2- Irá abrir uma janela de terminal preta, digite 1 e enter, para dar inicio a instalação. Em seguida deve aparecer na página uma mensagem verde de "succeeded", então foi instalado com sucesso, pode fechar a janela de terminal. 
 
-    3- Clique no botão "Windows" e digite "CMD" ou "Terminal" e com o terminal aberto digite "Ruby -v" e aperte o enter, se a instalação tiver sido feita com sucesso a versão do ruby vai aparecer na linha abaixo.
+    3- Clique no botão "Windows" e digite "CMD" ou "Terminal" e com o terminal aberto digite "Ruby -v" e aperte o enter, se a instalação estiver sido feita com sucesso a versão do ruby vai aparecer na linha abaixo.
 
 
 Instalando o Bundler:
